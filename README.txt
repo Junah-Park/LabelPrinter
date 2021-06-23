@@ -1,4 +1,4 @@
-IMU production line label printing software code. Provides an operator GUI and RESTful API to send and receive data to a Microsoft SQL database server.
+IMU production line label printing software code. Automates data retrieval from a Microsoft SQL database server using input data to form fill label templates for station printing.
 
 Runs on Windows 10
 Gets data from database
